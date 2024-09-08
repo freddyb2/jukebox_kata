@@ -1,0 +1,27 @@
+Kata::Jukebox
+  1 card
+    1 slot
+      1 chanson
+    2 slots
+      2 chansons
+    3 slots
+      3 chansons
+  2 cards
+    1 slot
+      2 chansons
+    2 slots
+      quand au plus 1 carte utilisée - 4 chansons
+      quand au plus 2 cartes utilisées - 6 chansons
+    3 slots
+      quand au plus 1 carte utilisée - 6 chansons
+      quand au plus 2 cartes utilisées - 12 chansons
+  3 cards
+    1 slot
+      quand au plus 1 carte utilisée - 3 chansons
+    2 slots
+      quand au plus 1 carte utilisée - 6 chansons
+      quand au plus 2 cartes utilisées - 12 chansons
+    3 slots
+      quand au plus 1 carte utilisée - 9 chansons
+      quand au plus 2 cartes utilisées - 27 chansons
+      quand au plus 3 cartes utilisées - 33 chansons
