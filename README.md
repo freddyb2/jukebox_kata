@@ -1,7 +1,12 @@
-# jukebox_kata
+# Jukebox Kata
+
 A seemingly simple kata which requires you to move forward in small steps, otherwise you risk falling into the den of the wolf 😈
 
-## Problem
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28036e3a-e337-4b86-94c3-367b9798914a" width="10%" height="10%" />
+</p>
+
+## Story
 
 There's a jukebox in a coffee shop. This jukebox has three card slots where each slot can only hold 1 card at once.
 
@@ -32,6 +37,7 @@ Don't try to be smarter than the tests.
 - What happens if the amount of slots could be configurable?
 - What happens if the amount of cards is configurable?
 i.e. 3 slots and 4 cards, 4 slots and 2 cards, 5 slots and 5 cards
+
 
 ## Solution
 
